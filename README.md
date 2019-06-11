@@ -10,7 +10,7 @@ This is **boldface**
 
 \*Literal asterisks\*
 
-![Tesla] (http://historyloversclub.com/wp-content/uploads/2016/02/56bee50414a141792479d64fdd80593a.jpg)
+! [Tesla] (http://historyloversclub.com/wp-content/uploads/2016/02/56bee50414a141792479d64fdd80593a.jpg)
 This puts a web photo and title into project.
 
 # Naming Conventions
