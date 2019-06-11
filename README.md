@@ -1,9 +1,9 @@
 # Test
 This is the README for our first test project
 
-# This is and H1 tag
-## This is an H2 tag
-###### This is an H6 tag
+# This is an H1 header
+## This is a smaller H2 header
+###### This is an even smaller H6 header
 
 This is *italic*
 This is **boldface**
@@ -13,7 +13,7 @@ This is **boldface**
 ![Tesla] (http://historyloversclub.com/wp-content/uploads/2016/02/56bee50414a141792479d64fdd80593a.jpg)
 This puts a web photo and title into project.
 
-# Naming Conventions
+## Naming Conventions
 Camel: first letters are capitalized 
 Underscore (like in Matlab)
 Kebob: no caps, uses dashes (often used for webpages)
