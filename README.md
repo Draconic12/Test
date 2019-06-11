@@ -10,10 +10,10 @@ This is **boldface**
 
 \*Literal asterisks\*
 
-! [Tesla](http://historyloversclub.com/wp-content/uploads/2016/02/56bee50414a141792479d64fdd80593a.jpg)
+! [Tesla](http://historyloversclub.com/wp-content/uploads/2016/02/56bee50414a141792479d64fdd80593a.jpg)  
 This puts a web photo and title into project.
 
 ## Naming Conventions
-Camel: first letters are capitalized 
-Underscore (like in Matlab)
-Kebob: no caps, uses dashes (often used for webpages)
+Camel: first letters are capitalized   
+Underscore (like in Matlab)  
+Kebob: no caps, uses dashes (often used for webpages)  
